@@ -1,4 +1,4 @@
-# NAU ECO 324 & 424 Data
+# NAU ECO 324 & 424 Data [Fall 2023]
 Project Files for ECO 324 &amp; 424 Fall 2023
 
 ## Papers:
